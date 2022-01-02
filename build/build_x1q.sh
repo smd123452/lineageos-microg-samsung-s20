@@ -2,7 +2,7 @@
 
 
 docker run \
-       -e "BRANCH_NAME=lineage-17.1" \
+       -e "BRANCH_NAME=lineage-18.1" \
        -e "DEVICE_LIST=x1q" \
        -e "INCLUDE_PROPRIETARY=false" \
        -e "CCACHE_SIZE=100G" \
